@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/timg.jpg</file>
+        <file>image/black.png</file>
+        <file>image/write.png</file>
+        <file>image/space.jpg</file>
+        <file>image/spa.jpg</file>
+    </qresource>
+</RCC>
